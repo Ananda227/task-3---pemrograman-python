@@ -26,3 +26,15 @@
      ![Screenshot (938)](https://user-images.githubusercontent.com/93022913/226793128-5947079f-67a1-45fe-ba7e-e72808e442ec.png)
  15. Klik tombol New kemudian paste alamat file python yang telah di-copy tadi. Setelah selesai klik OK.
      ![Screenshot (940)](https://user-images.githubusercontent.com/93022913/226793661-2a2d2c53-8ab9-40ed-bf47-a580292923e2.png)
+ 16. buka vs code yang sudah terinstall, lalu install extension python pada vs code anda
+     ![Screenshot (941)](https://user-images.githubusercontent.com/93022913/226796462-23a52830-57b4-4ffd-9e75-9ebbedb80ebc.png)
+ 17. kemudian pilih open folder pada menu file
+     ![Screenshot (942)](https://user-images.githubusercontent.com/93022913/226796827-d7b57971-eb4c-45b0-81c5-aefe032d1930.png)
+ 18. pilih folder mana saja atau buat folder baru, lalu klik pilih folder
+     ![Screenshot (943)](https://user-images.githubusercontent.com/93022913/226797060-bec4feb6-776f-4da5-961c-685da861de49.png)
+ 19. tempakan kursor di dalam folder lalu klik kanan pilih new file
+     ![Screenshot (948)](https://user-images.githubusercontent.com/93022913/226797600-8c434173-5d03-40ee-a399-aaf2b88b53cd.png)
+ 20. beri nama file "tes.py" lalu tekan enter
+     ![Screenshot (949)](https://user-images.githubusercontent.com/93022913/226797837-9a5b5601-bea1-4c03-bf8d-c35bec62fa11.png)
+ 21. tuliskan program python sederhana lalu klik run
+     ![Screenshot (953)](https://user-images.githubusercontent.com/93022913/226799100-89dec41b-66ee-469e-8ccd-3859b675cfad.png)
