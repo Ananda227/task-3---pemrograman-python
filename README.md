@@ -2,6 +2,6 @@
 
 tugas pemrograman python task 3
 
-Nama        : Ananda Fajriansyah
-NIM         : 20.01.013.044
+Nama        : Ananda Fajriansyah <br>
+NIM         : 20.01.013.044 <br>
 Mata Kuliah : Pemrograman Python
