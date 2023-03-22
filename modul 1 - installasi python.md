@@ -24,5 +24,5 @@
      ![Screenshot (935)](https://user-images.githubusercontent.com/93022913/226792738-6ff098d4-a87d-4875-9cfe-71bc5b67c2e4.png)
  14. pilih system variables path kemudian pilih edit
      ![Screenshot (938)](https://user-images.githubusercontent.com/93022913/226793128-5947079f-67a1-45fe-ba7e-e72808e442ec.png)
-
- 15. 
+ 15. Klik tombol New kemudian paste alamat file python yang telah di-copy tadi. Setelah selesai klik OK.
+     ![Screenshot (940)](https://user-images.githubusercontent.com/93022913/226793661-2a2d2c53-8ab9-40ed-bf47-a580292923e2.png)
