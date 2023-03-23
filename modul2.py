@@ -267,3 +267,26 @@ print(my_list)
 my_list.clear()
 print(my_list)
 #output []
+
+# Mengurutkan Anggota List
+# Pada saat kita perlu mengurutkan atau menyortir anggota list, kita bisa menggunakan
+# metode sort(). Untuk membalik dengan urutan sebaliknya bisa dengan menggunakan
+# argumen reverse=True.
+
+alfabet = ['a','b','d','f','e','c','h','g','i']
+alfabet.sort()
+print(alfabet)
+#output : ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i']
+
+alfabet.sort(reverse=True)
+print(alfabet)
+#output : ['i', 'h', 'g', 'f', 'e', 'd', 'c', 'b', 'a']
+
+# Membalik Urutan List
+# Selain mengurutkan, kita juga bisa membalikkan urutan list dengan menggunakan
+# metode reverse().
+
+alfabet = ['d','a','c','b']
+alfabet.reverse()
+print(alfabet)
+#output : ['b', 'c', 'a', 'd']
